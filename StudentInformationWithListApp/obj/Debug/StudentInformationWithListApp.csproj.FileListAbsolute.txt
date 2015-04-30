@@ -1,0 +1,8 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\bin\Debug\StudentInformationWithListApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\bin\Debug\StudentInformationWithListApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\bin\Debug\StudentInformationWithListApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\obj\Debug\StudentInformationWithListApp.StudentInformationUI.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\obj\Debug\StudentInformationWithListApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\obj\Debug\StudentInformationWithListApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\obj\Debug\StudentInformationWithListApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\StudentInformationWithListApp\StudentInformationWithListApp\obj\Debug\StudentInformationWithListApp.pdb
